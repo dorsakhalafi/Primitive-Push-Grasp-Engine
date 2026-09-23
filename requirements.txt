@@ -1,0 +1,14 @@
+numpy
+opencv-python
+pillow
+torch
+torchvision
+timm
+einops
+open3d
+scipy
+pybullet
+google-genai
+python-dotenv
+pydantic
+matplotlib
